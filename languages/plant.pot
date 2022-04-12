@@ -1,0 +1,949 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Plant\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-14 05:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: plant"
+
+#: inc/template-tags.php:59
+msgid ", "
+msgstr ""
+
+#: inc/kirki.php:1830
+msgid ". All rights reserved."
+msgstr ""
+
+#: inc/kirki.php:65
+msgid "Accent"
+msgstr ""
+
+#: inc/kirki.php:61
+msgid "Accent Color"
+msgstr ""
+
+#: inc/kirki.php:66
+msgid "Accent: Hover"
+msgstr ""
+
+#: page-templates/salepage.php:179
+msgid "Account Name"
+msgstr ""
+
+#: page-templates/salepage.php:172
+msgid "Account No."
+msgstr ""
+
+#: inc/kirki.php:273 inc/kirki.php:289
+msgid "Action Icon"
+msgstr ""
+
+#: inc/kirki.php:1656
+msgid "Add New Column"
+msgstr ""
+
+#: inc/kirki.php:902
+msgid "Adjust body colors?"
+msgstr ""
+
+#: inc/kirki.php:1725
+msgid "Adjust Colors?"
+msgstr ""
+
+#: inc/kirki.php:396
+msgid "Adjust header colors?"
+msgstr ""
+
+#: inc/kirki.php:1696
+msgid "All"
+msgstr ""
+
+#: inc/kirki.php:103 inc/kirki.php:638
+msgid "Auto Show"
+msgstr ""
+
+#: inc/kirki.php:2446
+msgid "Backend CSS"
+msgstr ""
+
+#: inc/kirki.php:2455
+msgid "Backend JS"
+msgstr ""
+
+#: inc/kirki.php:840 inc/kirki.php:1135 inc/kirki.php:1464 inc/kirki.php:1558
+msgid "Background"
+msgstr ""
+
+#: inc/kirki.php:911
+msgid "Background Color"
+msgstr ""
+
+#: inc/kirki.php:447
+msgid "Background for Logo section"
+msgstr ""
+
+#: inc/kirki.php:505
+msgid "Background for Menu section"
+msgstr ""
+
+#: inc/kirki.php:405
+msgid "Background for whole header"
+msgstr ""
+
+#: inc/kirki.php:1465 inc/kirki.php:1559
+msgid "Background: Hover"
+msgstr ""
+
+#: inc/kirki.php:966
+msgid "Banner"
+msgstr ""
+
+#: inc/kirki.php:1021
+msgid "Banner Blur"
+msgstr ""
+
+#: inc/kirki.php:1007
+msgid "Banner Image"
+msgstr ""
+
+#: inc/kirki.php:1040
+msgid "Banner Opacity"
+msgstr ""
+
+#: inc/kirki.php:17
+msgid "Body"
+msgstr ""
+
+#: inc/kirki.php:842
+msgid "Border"
+msgstr ""
+
+#: inc/kirki.php:1519
+msgid "Border Radius"
+msgstr ""
+
+#: inc/kirki.php:1232
+msgid "Caption"
+msgstr ""
+
+#: inc/kirki.php:1229
+msgid "Card"
+msgstr ""
+
+#: inc/kirki.php:281 inc/kirki.php:774
+msgid "Cart"
+msgstr ""
+
+#: inc/kirki.php:320
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/kirki.php:686 inc/kirki.php:1709
+msgid "Center"
+msgstr ""
+
+#: inc/kirki.php:1710
+msgid "Center (Mobile) → Left (Desktop)"
+msgstr ""
+
+#: inc/kirki.php:1711
+msgid "Center (Mobile) → Right (Desktop)"
+msgstr ""
+
+#: inc/kirki.php:123
+msgid "Center Menu?"
+msgstr ""
+
+#: inc/kirki.php:1433
+msgid "Change Button Colors?"
+msgstr ""
+
+#: inc/kirki.php:42
+msgid "Chat Buttons"
+msgstr ""
+
+#: inc/kirki.php:1918
+msgid "Chat Icon"
+msgstr ""
+
+#: inc/kirki.php:1942
+msgid "Chat Icon Background"
+msgstr ""
+
+#: inc/kirki.php:1964
+msgid "Chat Message"
+msgstr ""
+
+#: inc/kirki.php:625
+msgid "Click on mobile icon at the bottom right of this sidebar."
+msgstr ""
+
+#: inc/kirki.php:1132
+msgid "Colors"
+msgstr ""
+
+#: inc/kirki.php:1683
+msgid "Column width on desktop (%)"
+msgstr ""
+
+#: inc/kirki.php:1188
+msgid "Columns on Desktop"
+msgstr ""
+
+#: inc/kirki.php:1203
+msgid "Columns on Mobile"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments"
+msgstr ""
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/kirki.php:2381
+msgid "Crop Thumbnail?"
+msgstr ""
+
+#: inc/kirki.php:283 inc/kirki.php:297 inc/kirki.php:704 inc/kirki.php:775
+msgid "Custom"
+msgstr ""
+
+#: inc/kirki.php:746 inc/kirki.php:817
+msgid "Custom HTML"
+msgstr ""
+
+#: inc/kirki.php:304
+msgid "Custom HTML and Shortcode"
+msgstr ""
+
+#: inc/kirki.php:1706
+msgid "Default"
+msgstr ""
+
+#: functions.php:83
+msgid "Desktop Menu"
+msgstr ""
+
+#: inc/kirki.php:1698
+msgid "Desktop Only"
+msgstr ""
+
+#: template-parts/content-page.php:26
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:98
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/kirki.php:1993 inc/kirki.php:2286
+msgid "Email"
+msgstr ""
+
+#: inc/kirki.php:2305
+msgid "Email Tooltip"
+msgstr ""
+
+#: inc/kirki.php:1910
+msgid "Enable Chat Buttons?"
+msgstr ""
+
+#: inc/kirki.php:1624
+msgid "Enable Footer Bar?"
+msgstr ""
+
+#: inc/kirki.php:1616
+msgid "Enable Footer Columns?"
+msgstr ""
+
+#: inc/kirki.php:1091
+msgid "Enable Related Posts?"
+msgstr ""
+
+#: inc/kirki.php:1083
+msgid "Enable WP Comments?"
+msgstr ""
+
+#: inc/kirki.php:2211
+msgid "Example: 02-123-4567"
+msgstr ""
+
+#: inc/kirki.php:2173
+msgid "Example: 081-234-5678"
+msgstr ""
+
+#: inc/kirki.php:2135
+msgid "Example: https://fb.com/seedthemes"
+msgstr ""
+
+#: inc/kirki.php:2097
+msgid "Example: https://line.me/R/ti/p/@seedwebs"
+msgstr ""
+
+#: inc/kirki.php:2025
+msgid "Example: https://m.me/seedthemes"
+msgstr ""
+
+#: inc/kirki.php:2249
+msgid "Example: https://twitter.com/seedwebs"
+msgstr ""
+
+#: inc/kirki.php:2287
+msgid "Example: support@seedwebs.com"
+msgstr ""
+
+#: inc/kirki.php:1987
+msgid "Facebook Messenger"
+msgstr ""
+
+#: inc/kirki.php:1988
+msgid "Facebook Page"
+msgstr ""
+
+#: inc/kirki.php:2134
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/kirki.php:2153
+msgid "Facebook Tooltip"
+msgstr ""
+
+#: inc/kirki.php:104 inc/kirki.php:639
+msgid "Fixed"
+msgstr ""
+
+#: inc/kirki.php:35
+msgid "Footer"
+msgstr ""
+
+#: inc/kirki.php:1654
+msgid "Footer Column"
+msgstr ""
+
+#: functions.php:162
+msgid "Footer Column "
+msgstr ""
+
+#: inc/kirki.php:2427
+msgid "Footer Script"
+msgstr ""
+
+#: inc/kirki.php:2326
+msgid "For Page Template: Landing"
+msgstr ""
+
+#. Name of the template
+msgid "Form"
+msgstr ""
+
+#: inc/kirki.php:2418
+msgid "Frontend CSS"
+msgstr ""
+
+#. Description of the theme
+msgid "General Purpose Theme"
+msgstr ""
+
+#: inc/kirki.php:213
+msgid "Has Shadow?"
+msgstr ""
+
+#: inc/kirki.php:10
+msgid "Header"
+msgstr ""
+
+#: functions.php:145
+msgid "Header Action"
+msgstr ""
+
+#: inc/kirki.php:340
+msgid "Header Effect on Homepage"
+msgstr ""
+
+#: inc/kirki.php:2408
+msgid "Header Script"
+msgstr ""
+
+#: inc/kirki.php:97 inc/kirki.php:632
+msgid "Header Style"
+msgstr ""
+
+#: inc/kirki.php:1231
+msgid "Hero"
+msgstr ""
+
+#: inc/kirki.php:1400
+msgid "Hide Add to Cart Button?"
+msgstr ""
+
+#: inc/kirki.php:257 inc/kirki.php:884
+msgid "Hide arrow down icon on menu?"
+msgstr ""
+
+#: inc/kirki.php:1409
+msgid "Hide Related Products?"
+msgstr ""
+
+#: inc/kirki.php:205
+msgid "Hide Site Title?"
+msgstr ""
+
+#: inc/kirki.php:1058
+msgid "Hide Title on all Pages?"
+msgstr ""
+
+#: inc/kirki.php:62
+msgid "Highlight color such as links."
+msgstr ""
+
+#: functions.php:136
+msgid "Home Banner"
+msgstr ""
+
+#: inc/kirki.php:915
+msgid "Homepage"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://seedthemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://seedthemes.com/item/plant/"
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Name of the template
+msgid "Landing Page"
+msgstr ""
+
+#: inc/kirki.php:685 inc/kirki.php:1707
+msgid "Left"
+msgstr ""
+
+#. Name of the template
+msgid "Left & Right Sidebar"
+msgstr ""
+
+#: inc/kirki.php:693
+msgid "Left Area"
+msgstr ""
+
+#: inc/kirki.php:117
+msgid "Left Logo"
+msgstr ""
+
+#. Name of the template
+#: functions.php:118 inc/kirki.php:1174 inc/kirki.php:1246 inc/kirki.php:1277
+msgid "Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar (Sub Page)"
+msgstr ""
+
+#: inc/kirki.php:1990
+msgid "Line"
+msgstr ""
+
+#: inc/kirki.php:2115
+msgid "Line Tooltip"
+msgstr ""
+
+#: inc/kirki.php:2096
+msgid "Line URL"
+msgstr ""
+
+#: inc/kirki.php:564 inc/kirki.php:841
+msgid "Link"
+msgstr ""
+
+#: inc/kirki.php:560
+msgid "Link Colors"
+msgstr ""
+
+#: inc/kirki.php:566
+msgid "Link: Active"
+msgstr ""
+
+#: inc/kirki.php:567
+msgid "Link: Active Background"
+msgstr ""
+
+#: inc/kirki.php:565 inc/kirki.php:1746 inc/kirki.php:1851
+msgid "Link: Hover"
+msgstr ""
+
+#: inc/kirki.php:1230
+msgid "List"
+msgstr ""
+
+#: inc/kirki.php:2345
+msgid "Load Font Awesome 5?"
+msgstr ""
+
+#: inc/kirki.php:679
+msgid "Logo Layout"
+msgstr ""
+
+#: inc/kirki.php:110
+msgid "Logo Position"
+msgstr ""
+
+#: inc/kirki.php:165
+msgid "Logo Top Space"
+msgstr ""
+
+#: inc/kirki.php:1460
+msgid "Main Button Colors"
+msgstr ""
+
+#: inc/kirki.php:773 inc/template-tags.php:182
+msgid "Member"
+msgstr ""
+
+#: inc/kirki.php:769
+msgid "Menu"
+msgstr ""
+
+#: inc/kirki.php:186
+msgid "Menu Height"
+msgstr ""
+
+#: inc/kirki.php:700
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/kirki.php:701 inc/kirki.php:770
+msgid "Menu Text"
+msgstr ""
+
+#: inc/kirki.php:2005
+msgid "Messenger - Use Chat Plugin?"
+msgstr ""
+
+#: inc/kirki.php:2048
+msgid "Messenger Tooltip"
+msgstr ""
+
+#: inc/kirki.php:2024
+msgid "Messenger URL"
+msgstr ""
+
+#: inc/kirki.php:2072
+msgid "Messenger: Facebook Page ID"
+msgstr ""
+
+#: inc/kirki.php:967
+msgid "Minimal"
+msgstr ""
+
+#: inc/kirki.php:1992
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:84
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/kirki.php:834
+msgid "Mobile Menu Colors"
+msgstr ""
+
+#: inc/kirki.php:2172
+msgid "Mobile No."
+msgstr ""
+
+#: inc/kirki.php:1697
+msgid "Mobile Only"
+msgstr ""
+
+#: inc/kirki.php:2191
+msgid "Mobile Tooltip"
+msgstr ""
+
+#: inc/kirki.php:26
+msgid "More Settings"
+msgstr ""
+
+#: inc/kirki.php:282
+msgid "My Account"
+msgstr ""
+
+#: inc/kirki.php:1172 inc/kirki.php:1244 inc/kirki.php:1275
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/kirki.php:346
+msgid "None"
+msgstr ""
+
+#: template-parts/content-none.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/kirki.php:1114
+msgid "Number of Related Posts"
+msgstr ""
+
+#: inc/kirki.php:1401
+msgid "On Product Archive page."
+msgstr ""
+
+#: inc/kirki.php:1410
+msgid "On Product Detail page."
+msgstr ""
+
+#: inc/kirki.php:49
+msgid "Other"
+msgstr ""
+
+#: inc/kirki.php:917
+msgid "Other Pages"
+msgstr ""
+
+#: inc/kirki.php:50
+msgid "Other settings"
+msgstr ""
+
+#: inc/kirki.php:2428
+msgid "Output this HTML code before </body>"
+msgstr ""
+
+#: inc/kirki.php:2409
+msgid "Output this HTML code before </head>"
+msgstr ""
+
+#: inc/kirki.php:348
+msgid "Overlay"
+msgstr ""
+
+#: inc/kirki.php:1302
+msgid "Page Background"
+msgstr ""
+
+#: inc/kirki.php:1391
+msgid "Page Builder on Shop Page?"
+msgstr ""
+
+#: inc/template-tags.php:265
+msgid "Page not found"
+msgstr ""
+
+#: template-parts/content-page.php:17
+msgid "Pages:"
+msgstr ""
+
+#: inc/kirki.php:703 inc/kirki.php:772 inc/kirki.php:1991
+msgid "Phone"
+msgstr ""
+
+#: inc/kirki.php:717 inc/kirki.php:788 inc/kirki.php:2210
+msgid "Phone No."
+msgstr ""
+
+#: inc/kirki.php:2229
+msgid "Phone Tooltip"
+msgstr ""
+
+#: inc/kirki.php:1554
+msgid "Plain Button Colors"
+msgstr ""
+
+#: inc/kirki.php:1292
+msgid "Plain with space"
+msgstr ""
+
+#. Name of the theme
+msgid "Plant"
+msgstr ""
+
+#: inc/kirki.php:2073
+msgid "Please read https://docs.seedwebs.com/article/51-chat-buttons-plant."
+msgstr ""
+
+#: inc/kirki.php:1372
+msgid "Price Color"
+msgstr ""
+
+#: inc/kirki.php:1303
+msgid "Product Card Background"
+msgstr ""
+
+#: inc/kirki.php:1334
+msgid "Product Card Padding"
+msgstr ""
+
+#: inc/kirki.php:1291
+msgid "Product card with shadow"
+msgstr ""
+
+#: inc/kirki.php:1420
+msgid "Products Per Page"
+msgstr ""
+
+#: template-parts/content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/kirki.php:687 inc/kirki.php:1708
+msgid "Right"
+msgstr ""
+
+#: inc/kirki.php:762
+msgid "Right Area"
+msgstr ""
+
+#. Name of the template
+#: functions.php:109 inc/kirki.php:1173 inc/kirki.php:1245 inc/kirki.php:1276
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/woo.php:179
+msgid "Sale"
+msgstr ""
+
+#: inc/kirki.php:1354
+msgid "Sale Badge Color"
+msgstr ""
+
+#. Name of the template
+msgid "Sale Page"
+msgstr ""
+
+#: inc/kirki.php:1649
+msgid ""
+"Save and go to Appearance → Widgets then add widget to Footer Column 1, "
+"Footer Column 2."
+msgstr ""
+
+#: inc/kirki.php:1421
+msgid "Save and refresh to see the result."
+msgstr ""
+
+#: inc/kirki.php:2346 inc/kirki.php:2355
+msgid "Save and refresh to see."
+msgstr ""
+
+#: inc/kirki.php:1693
+msgid "Screen to display"
+msgstr ""
+
+#: inc/kirki.php:280 inc/kirki.php:296 inc/kirki.php:702 inc/kirki.php:771
+msgid "Search"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#. Author of the theme
+#: inc/blocks.php:23
+msgid "SeedThemes"
+msgstr ""
+
+#: inc/kirki.php:239
+msgid "Shadow Blur"
+msgstr ""
+
+#: inc/kirki.php:222
+msgid "Shadow Color"
+msgstr ""
+
+#: inc/kirki.php:1299
+msgid "Shop Background Colors"
+msgstr ""
+
+#: inc/kirki.php:1268
+msgid "Shop Layout"
+msgstr ""
+
+#: functions.php:127
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/kirki.php:1284
+msgid "Shop Style"
+msgstr ""
+
+#: inc/kirki.php:2354
+msgid "Show Admin Bar?"
+msgstr ""
+
+#: inc/kirki.php:1214
+msgid "Show Author Name?"
+msgstr ""
+
+#: inc/kirki.php:1075
+msgid "Show Author Profile?"
+msgstr ""
+
+#: inc/kirki.php:2325
+msgid "Show on Landing Page?"
+msgstr ""
+
+#: inc/kirki.php:1355 inc/kirki.php:1373
+msgid "Show on Product Archive and Detail"
+msgstr ""
+
+#: inc/kirki.php:1392
+msgid "Show only content, not products list on Shop page."
+msgstr ""
+
+#: inc/kirki.php:1165 inc/kirki.php:1237
+msgid "Sidebar"
+msgstr ""
+
+#: inc/kirki.php:916
+msgid "Single Post"
+msgstr ""
+
+#: header.php:41 page-templates/landing.php:18 page-templates/soon.php:33
+msgid "Skip to content"
+msgstr ""
+
+#: inc/kirki.php:347
+msgid "Slide In"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/kirki.php:105 inc/kirki.php:640
+msgid "Standard"
+msgstr ""
+
+#: inc/kirki.php:568
+msgid "Sub Menu Border"
+msgstr ""
+
+#: inc/kirki.php:1222
+msgid "Template"
+msgstr ""
+
+#: inc/kirki.php:1466 inc/kirki.php:1560
+msgid "Text"
+msgstr ""
+
+#: inc/kirki.php:1703
+msgid "Text Align"
+msgstr ""
+
+#: inc/kirki.php:839
+msgid "Text and Icon"
+msgstr ""
+
+#: inc/kirki.php:1745 inc/kirki.php:1850
+msgid "Text and Link"
+msgstr ""
+
+#: inc/kirki.php:977
+msgid "Text Color"
+msgstr ""
+
+#: inc/kirki.php:1741 inc/kirki.php:1846
+msgid "Text Colors"
+msgstr ""
+
+#: inc/kirki.php:978
+msgid "Text Hover"
+msgstr ""
+
+#: inc/kirki.php:731 inc/kirki.php:802
+msgid "Text in Menu"
+msgstr ""
+
+#: inc/kirki.php:1828
+msgid "Text or HTML"
+msgstr ""
+
+#: inc/kirki.php:1467 inc/kirki.php:1561
+msgid "Text: Hover"
+msgstr ""
+
+#: 404.php:20
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/kirki.php:1099 inc/kirki.php:1136
+msgid "Title"
+msgstr ""
+
+#: inc/kirki.php:973
+msgid "Title Colors"
+msgstr ""
+
+#: inc/kirki.php:959
+msgid "Title Style"
+msgstr ""
+
+#: inc/kirki.php:118
+msgid "Top Logo"
+msgstr ""
+
+#: inc/kirki.php:1989
+msgid "Twitter"
+msgstr ""
+
+#: inc/kirki.php:2267
+msgid "Twitter Tooltip"
+msgstr ""
+
+#: inc/kirki.php:2248
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/kirki.php:1258
+msgid ""
+"Use only Shipping Address, Require Address 2 (แขวง/ตำบล), Thai Baht, etc. "
+"Save and refresh to see."
+msgstr ""
+
+#: inc/kirki.php:1257
+msgid "Use Thai Style?"
+msgstr ""
+
+#: header.php:86 inc/template-tags.php:351
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/kirki.php:1648
+msgid "Widget Area"
+msgstr ""
+
+#: inc/kirki.php:1434
+msgid "WooCommerce Buttons"
+msgstr ""
